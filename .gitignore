@@ -1,2 +1,10 @@
 # Finder metadata MacOS system`s files
 .DS_Store
+
+# Editors
+.vscose/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints.DS_Store
+
